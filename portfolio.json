@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "repository": "AlonsoMarcosM/smart-parking-albacete",
-  "repository_url": "https://github.com/AlonsoMarcosM/smart-parking-albacete",
+  "repository": "alonsomarcosm99/smart-parking-albacete",
+  "repository_url": "https://github.com/alonsomarcosm99/smart-parking-albacete",
   "slug": "smart-parking-albacete",
   "title": {
     "es": "Smart Parking Albacete",
@@ -123,15 +123,15 @@
     },
     {
       "type": "case_study",
-      "url": "https://alonsomarcosm.github.io/es/projects/smart-parking-albacete/"
+      "url": "https://alonsomarcosm99.github.io/es/projects/smart-parking-albacete/"
     },
     {
       "type": "architecture",
-      "url": "https://github.com/AlonsoMarcosM/smart-parking-albacete/blob/main/memoria/imagenes/diagrama_arquitectura.png"
+      "url": "https://github.com/alonsomarcosm99/smart-parking-albacete/blob/main/memoria/imagenes/diagrama_arquitectura.png"
     },
     {
       "type": "github",
-      "url": "https://github.com/AlonsoMarcosM/smart-parking-albacete"
+      "url": "https://github.com/alonsomarcosm99/smart-parking-albacete"
     }
   ]
 }

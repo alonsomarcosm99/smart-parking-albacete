@@ -14,7 +14,7 @@ La simulación vive en `prototipo/dashboard/demo_data.py`. Parte de `infra/parki
 
 ## Streamlit Community Cloud
 
-- Repositorio: `AlonsoMarcosM/smart-parking-albacete`.
+- Repositorio: `alonsomarcosm99/smart-parking-albacete`.
 - Rama: `main`.
 - Fichero principal: `prototipo/dashboard/streamlit_app.py`.
 - Dependencias: `prototipo/dashboard/requirements.txt`.

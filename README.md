@@ -2,7 +2,7 @@
 
 > **Live Demo:** https://smart-parking-albacete.streamlit.app/
 >
-> **Caso de estudio:** https://alonsomarcosm.github.io/es/projects/smart-parking-albacete/
+> **Caso de estudio:** https://alonsomarcosm99.github.io/es/projects/smart-parking-albacete/
 
 > Proyecto académico aplicado de aparcamiento inteligente para el entorno
 > universitario de Albacete. **40 sensores simulados** publicaron por MQTT/TLS
