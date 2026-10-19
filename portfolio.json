@@ -15,7 +15,7 @@
   },
   "architecture": {
     "es": "Sensores simulados publican por MQTT con mTLS en AWS IoT Core. Lambda procesa y agrega el estado en DynamoDB, API Gateway lo expone y Streamlit lo visualiza.",
-    "en": "Simulated sensors publish over MQTT with mTLS to AWS IoT Core. Lambda processes and aggregates state in DynamoDB, API Gateway exposes it and Streamlit visualises it."
+    "en": "Simulated sensors publish over MQTT with mTLS to AWS IoT Core. Lambda processes and aggregates state in DynamoDB, API Gateway exposes it and Streamlit visualizes it."
   },
   "dataFlow": {
     "es": "Sensor simulado → MQTT/TLS → IoT Rule → Lambda → DynamoDB → API Gateway → Streamlit.",
