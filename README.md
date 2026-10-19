@@ -1,5 +1,9 @@
 # Smart Parking Albacete · Plataforma IoT serverless en AWS
 
+**En una frase:** Plataforma IoT serverless en AWS para el aparcamiento del entorno universitario de Albacete. 40 sensores simulados publican por MQTT con mTLS (X.509) en IoT Core, una regla IoT dispara Lambda, el estado se guarda en DynamoDB, API Gateway lo expone como API REST documentada con OpenAPI y un dashboard Streamlit lo muestra en un mapa. Latencia de extremo a extremo inferior a 2 segundos, coste estimado del piloto inferior a 5 USD al mes y despliegue completo en unos 3 minutos con scripts boto3 idempotentes y desmontaje limpio.
+
+**In one sentence:** Serverless AWS IoT platform for parking around the university area of Albacete. 40 simulated sensors publish over MQTT with mTLS (X.509) to IoT Core, an IoT rule triggers Lambda, state is stored in DynamoDB, API Gateway exposes it as an OpenAPI-documented REST API and a Streamlit dashboard shows it on a map. End-to-end latency under 2 seconds, estimated pilot cost under USD 5 per month and full deployment in about 3 minutes with idempotent boto3 scripts and a clean teardown.
+
 > **Live Demo:** https://smart-parking-albacete.streamlit.app/
 >
 > **Caso de estudio:** https://alonsomarcosm99.github.io/es/projects/smart-parking-albacete/
